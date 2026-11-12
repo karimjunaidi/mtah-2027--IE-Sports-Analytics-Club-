@@ -1,6 +1,6 @@
 # More Than A Hack 2027 — Phase 1 submission (possession labelling, BAR–ATH)
 
-Team: **[TEAM NAME]** · IE Sports Analytics Club
+Team: **IE Sports Analytics Club**
 
 This repository labels every frame of the provided Barça vs Athletic match as `H` (home in
 possession), `A` (away in possession), `D` (dead ball) or `X` (abstain), using a 3-state hidden
