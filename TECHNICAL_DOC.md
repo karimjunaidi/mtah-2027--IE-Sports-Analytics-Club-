@@ -111,7 +111,7 @@ Lab (degraded Game 3, mean of 3 unseen seeds), spellF1:
 | v3 (+ symmetric emissions) | +0.002 | +0.012 over v2 |
 
 Public 5 minutes of the real match (sanity check only, 17 possessions, so very noisy): spellF1
-0.4667 against 0.3256 for the baseline. **Full-match score: [ADD FROM THE LEADERBOARD OR LEAVE OUT].**
+0.4667 against 0.3256 for the baseline. 
 
 ## 7. The possession rules we implemented
 
