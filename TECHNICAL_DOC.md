@@ -1,6 +1,6 @@
 # Technical document — Phase 1, possession labelling
 
-**Team:** IE Sports Analytics Club · **Members:** Tina Haddad, Karim Al Junadi, Jose Miguel Reyes, Ahmed Al Baba · **Repository:** (https://github.com/tinahaddad/mtah-2027--IE-Sports-Analytics-Club-)
+**Team:** IE Sports Analytics Club · **Members:** Tina Haddad, Karim Al Junadi, Jose Miguel Reyes, Ahmed Al Baba · **Repository:** https://github.com/tinahaddad/mtah-2027--IE-Sports-Analytics-Club-
 
 ## 1. Summary
 
