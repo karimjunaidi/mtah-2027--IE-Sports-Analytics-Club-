@@ -1,0 +1,71 @@
+{
+ "fitted_on": "Metrica Sample Game 3 (public), lab noise seed 0",
+ "close_m": 2.0,
+ "symbols": [
+  "NONE",
+  "HC",
+  "HF",
+  "AC",
+  "AF",
+  "OUT"
+ ],
+ "states": [
+  "H",
+  "A",
+  "D"
+ ],
+ "emissions": [
+  [
+   0.388033,
+   0.305594,
+   0.1552,
+   0.031638,
+   0.116568,
+   0.002967
+  ],
+  [
+   0.388033,
+   0.031638,
+   0.116568,
+   0.305594,
+   0.1552,
+   0.002967
+  ],
+  [
+   0.478489,
+   0.066742,
+   0.145644,
+   0.072521,
+   0.073201,
+   0.163402
+  ]
+ ],
+ "transitions": [
+  [
+   0.99626866,
+   0.00306115,
+   0.00067019
+  ],
+  [
+   0.00296368,
+   0.99594016,
+   0.00109616
+  ],
+  [
+   0.00154313,
+   0.00083695,
+   0.99761992
+  ]
+ ],
+ "team_penalty": 10000.0,
+ "dead_penalty": 10000.0,
+ "tag_prior": {
+  "pre_s": 12.0,
+  "post_s": 4.0,
+  "boost": 3.0,
+  "far_s": 20.0,
+  "shrink": 0.75
+ },
+ "baum_welch": "tried in the lab and dropped: over-segments (1000+ possessions vs 404)",
+ "note": "v3: emissions made team-symmetric (a lost ball should not favour either team). Lab: home-share error 0.12 -> 0.01, spellF1 +0.002/+0.012"
+}
